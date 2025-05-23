@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IndianNews-website.git/static/css/main.f855e6bc.css",
+    "main.js": "/IndianNews-website.git/static/js/main.d76c22ad.js",
+    "static/media/loading.gif": "/IndianNews-website.git/static/media/loading.9d87d393f45415893ff4.gif",
+    "index.html": "/IndianNews-website.git/index.html",
+    "main.f855e6bc.css.map": "/IndianNews-website.git/static/css/main.f855e6bc.css.map",
+    "main.d76c22ad.js.map": "/IndianNews-website.git/static/js/main.d76c22ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d76c22ad.js"
+  ]
+}
